@@ -36,6 +36,7 @@ Pour des suggestions plus petites, n'hésitez pas à ouvrir une issue pour en di
 En plus de ce dépôt, vous pouvez trouver des ressources supplémentaires dans le dossier /ressources, y compris des fichiers Markdown détaillant chaque étape de la roadmap, des liens vers des tutoriels, des livres recommandés, etc.
 - [Meilleures Chaînes YouTube PHP](Ressources/meilleures_chaines_php.md)
 - [Meilleures Chaînes YouTube Laravel](Ressources/meilleures_chaines_laravel.md)
+- [Meilleurs chaînes YouTube pour JavaScript](Ressources/meilleures_chaines_javascript.md)
 
 ## Outils Recommandés
 
