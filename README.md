@@ -1,19 +1,23 @@
 # Roadmap du Développeur PHP
 
-## Débutant
-- Apprendre les bases du PHP (variables, boucles, fonctions, etc.)
-- Comprendre les concepts de base de la programmation orientée objet
-- Utiliser des frameworks PHP populaires tels que Laravel ou Symfony
-- Créer des applications web simples en PHP et MySQL
+Ce dépôt contient une roadmap détaillée pour devenir un développeur PHP compétent, en couvrant les bases du langage, les frameworks populaires, les bonnes pratiques de développement, et plus encore.
 
-## Intermédiaire
-- Approfondir ses connaissances en programmation orientée objet
-- Apprendre à utiliser des outils de gestion de dépendances comme Composer
-- Maîtriser les principaux concepts de sécurité en PHP
-- Se familiariser avec les bonnes pratiques de développement web (clean code, tests unitaires, etc.)
+## Objectif
 
-## Avancé
-- Expérimenter avec des architectures avancées telles que l'architecture hexagonale ou l'architecture en couches
-- Contribuer à des projets open source en PHP
-- Explorer des sujets avancés tels que les performances PHP, l'optimisation de base de données, etc.
-- Suivre les dernières tendances et technologies en PHP et web development
+L'objectif de cette roadmap est de fournir aux développeurs PHP en herbe un guide étape par étape pour acquérir les compétences nécessaires pour réussir dans le domaine du développement web avec PHP.
+
+## Comment Utiliser Ce Guide
+
+Chaque étape de la roadmap est détaillée dans le fichier Roadmap.md. Vous pouvez suivre les étapes dans l'ordre ou choisir celles qui correspondent le mieux à vos besoins et à votre niveau de compétence actuel.
+
+## Contribution
+
+Les contributions à ce projet sont les bienvenues ! Si vous avez des suggestions d'amélioration, des liens vers des ressources utiles, ou des exemples de code à partager, n'hésitez pas à ouvrir une pull request.
+
+## Ressources Supplémentaires
+
+En plus de ce dépôt, vous pouvez trouver des ressources supplémentaires dans le dossier /ressources, y compris des fichiers Markdown détaillant chaque étape de la roadmap, des liens vers des tutoriels, des livres recommandés, etc.
+
+## Licence
+
+Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
