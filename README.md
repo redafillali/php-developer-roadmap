@@ -16,11 +16,20 @@ L'objectif de cette roadmap est de fournir aux développeurs PHP en herbe un gui
 
 ## Comment Utiliser Ce Guide
 
-Chaque étape de la roadmap est détaillée dans le fichier Roadmap.md. Vous pouvez suivre les étapes dans l'ordre ou choisir celles qui correspondent le mieux à vos besoins et à votre niveau de compétence actuel.
+Chaque étape de la roadmap est détaillée dans le fichier [Roadmap.md](Roadmap.md). Vous pouvez suivre les étapes dans l'ordre ou choisir celles qui correspondent le mieux à vos besoins et à votre niveau de compétence actuel.
 
 ## Contribution
 
 Les contributions à ce projet sont les bienvenues ! Si vous avez des suggestions d'amélioration, des liens vers des ressources utiles, ou des exemples de code à partager, n'hésitez pas à ouvrir une pull request.
+
+Pour contribuer, veuillez suivre ces étapes :
+1. Forker le projet
+2. Créer une branche pour votre suggestion (`git checkout -b suggestion/nom-de-la-suggestion`)
+3. Commiter vos changements (`git commit -am 'Ajouter une suggestion'`)
+4. Pousser la branche sur votre dépôt (`git push origin suggestion/nom-de-la-suggestion`)
+5. Ouvrir une pull request
+
+Pour des suggestions plus petites, n'hésitez pas à ouvrir une issue pour en discuter.
 
 ## Ressources Supplémentaires
 
